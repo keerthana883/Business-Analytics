@@ -4,15 +4,14 @@ Welcome to Business Insights 360, a comprehensive Power BI analytics project bui
 
 This project delivers an end-to-end interactive dashboard that provides actionable insights for Finance, Sales, Marketing, Supply Chain, and Executive leadership.
 
-🔗 Live Dashboard
+🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2RhZjBjN2MtYjMwOC00MjE4LWExZGMtNDE4Nzg0NWQ4MGQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=787bee7d36767147343e)
 
-👉 View Power BI Dashboard
 
-📌 Dashboard Overview
+📌 Dashboard Overview:
 
 The dashboard is designed to help stakeholders monitor performance, identify trends, and make strategic decisions using interactive visuals and KPIs.
 
-🔹 Finance View
+🔹 Finance View:
 
 Profit & Loss (P&L) statements
 
@@ -20,7 +19,7 @@ Product-wise financial performance
 
 Net sales and profitability trends
 
-🔹 Sales View
+🔹 Sales View:
 
 Customer performance analysis
 
@@ -28,7 +27,7 @@ Product-level sales insights
 
 Dynamic filters for deeper drill-down
 
-🔹 Marketing View
+🔹 Marketing View:
 
 Product performance by region
 
@@ -36,13 +35,13 @@ Market contribution analysis
 
 Regional sales effectiveness
 
-🔹 Supply Chain View
+🔹 Supply Chain View:
 
 Forecast accuracy analysis
 
 Net error and supply efficiency metrics
 
-🔹 Executive View
+🔹 Executive View:
 
 High-level KPI cards
 
@@ -50,7 +49,7 @@ Revenue and profitability breakdowns
 
 Strategic business overview
 
-🗂️ Data Sources
+🗂️ Data Sources:
 
 Excel / CSV Files
 
@@ -66,19 +65,19 @@ Fact tables (sales, finance, supply chain)
 
 Dimension tables (customers, products, regions, time)
 
-🛠️ Tools & Technologies Used
+🛠️ Tools & Technologies Used:
 
 Power BI Desktop
 
 Power BI Service
 
-MySQL
+MySQL:
 
 DAX & Power Query (M Language)
 
 DAX Studio (for file size optimization)
 
-Microsoft Excel
+Microsoft Excel:
 
 Project Charter documentation
 
@@ -108,7 +107,7 @@ Dynamic title creation
 
 Multi-source data integration (Excel, CSV, MySQL)
 
-📘 Business Concepts Covered
+📘 Business Concepts Covered:
 
 Gross Sales
 
@@ -140,6 +139,6 @@ Distributor
 
 Consumer
 
-🚀 Project Objective
+🚀 Project Objective:
 
 To provide a single source of truth for business performance by integrating data from multiple departments and enabling leadership to make accurate, timely, and strategic decisions.
