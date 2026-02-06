@@ -6,6 +6,9 @@ This project delivers an end-to-end interactive dashboard that provides actionab
 
 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2RhZjBjN2MtYjMwOC00MjE4LWExZGMtNDE4Nzg0NWQ4MGQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=787bee7d36767147343e)
 
+🚀 Project Objective:
+
+To provide a single source of truth for business performance by integrating data from multiple departments and enabling leadership to make accurate, timely, and strategic decisions.
 
 📌 Dashboard Overview:
 
@@ -138,7 +141,3 @@ Retailer
 Distributor
 
 Consumer
-
-🚀 Project Objective:
-
-To provide a single source of truth for business performance by integrating data from multiple departments and enabling leadership to make accurate, timely, and strategic decisions.
