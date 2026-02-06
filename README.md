@@ -37,6 +37,7 @@ Bookmarks
 Custom Tooltip usage
 Dynamic Title Creation
 Data integration from various sources like Excel/CSV files, MySQL database, etc.
+
 Tools Used:
 Power BI Desktop
 Power BI Service
@@ -45,6 +46,7 @@ DAX and M language
 DAX studio (to reduce file size)
 Excel
 Project Charter file
+
 Business Terms Learned:
 Gross Margin
 Gross Margin %
