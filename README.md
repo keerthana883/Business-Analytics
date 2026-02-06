@@ -12,7 +12,9 @@ Sales View: Dive into customer and product performance with dynamic charts and f
 Marketing View: Gain insights into product and regional performance metrics.
 Supply Chain View: Analyze forecast accuracy and net error metrics.
 Executive View: Get high-level insights with KPI cards and revenue breakdowns.
+
 Data Sources :
+
 1.Excel/CSV Files: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
 
 2.MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database.
